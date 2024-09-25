@@ -1,2 +1,2 @@
-# personal_portfolio
-An introspective view of Peter.
+# Personal Portfolio
+An introspective view....
