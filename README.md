@@ -2,7 +2,7 @@
 
 ### A beautiful minimal and accessible portfolio ✨.
 
-To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
+To View the live site click [here &rarr;](https://maxprodigy.github.io/personal_portfolio/)
 
 ![Portfolio Gif](/images/portfolio.gif)
 
